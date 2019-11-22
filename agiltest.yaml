@@ -1,0 +1,71 @@
+==> Ansible tower download
+wget https://releases.ansible.com/ansible-tower/setup/ansible-tower-setup-latest.tar.gz
+  272  yum wget
+  273  yum install wget
+  274  wget https://releases.ansible.com/ansible-tower/setup/ansible-tower-setup-latest.tar.gz
+  275  ls
+  276  gunzip ansible-tower-setup-latest.tar.gz
+  277  ls
+  278  yum install gunzip
+  279  yum update gunzip
+  280  ls
+  281  tar -xvf ansible-tower-setup-latest.tar
+  282  ls
+  283  hostory
+  284  history
+  285  cd ansible-tower-setup-3.6.0-1/
+  286  ls
+  287  vi inventory
+  288  ./setup.sh
+  289  vi inventory
+  290  ./setup.sh
+  291  yum remove ansible
+  292  pip install ansible
+  293  ./setup.sh
+  294  ansible --version
+  295  history
+  296  ./setup.sh
+  297  vi inventory
+  298  ./setup.sh
+  299  ip a
+  300  cd /etc/ansible/
+  301  git init
+  302  pwd
+  303  git status
+  304  ls
+  305  rm -rf .git
+  306  git init
+  307  git status
+  308  ls
+  309  git config --global user.name "gopal"
+  310  git config --global user.name "agil"
+  311  git config --global user.email "aaratest@gmail.com"
+  312  git status
+  313  ls roles/
+  314  ls roles/Juniper.junos/
+  315  ls
+  316  vi ansible.cfg
+  317  vi cisco.yaml
+  318  git add .
+  319  git statur
+  320  git status
+  321  git reset
+  322  git status
+  323  vi .gitignore
+  324  git status
+  325  git diff
+  326  git commit
+  327  git add cisco.yaml
+  328  git add -f cisco.yaml
+  329  git commit
+  330  git status
+  331  git diff
+  332  vi test.tmp
+  333  ls
+  334  vi .gitignore
+  335  git commit
+  336  git status
+  337  vi .gitignore
+  338  git status
+  339  history
+
